@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/despo/issuehub.io.svg?branch=master)](https://travis-ci.org/despo/issuehub.io)
 
-[**issuehub.io**](http://issuehub.io) is a small project that enables you to find GitHub issues to work on. Unlike other contributing projects, the focus is on labelled issues rather than projects.
+[**issuehub.io**](http://issuehub.io) is a big project that enables you to find GitHub issues to work on. Unlike other contributing projects, the focus is on labelled issues rather than projects.
 
 The reason for making this project is to encourage issue labelling on open source projects, so that people with different types of experience and knowledge levels can easily find something to help out with.
 
